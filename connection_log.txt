@@ -1,0 +1,51 @@
+2024-10-16 20:48:46 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:49:01 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:49:01 - Connection failed to . Error: Failed to connect.
+2024-10-16 20:49:15 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:49:30 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:49:30 - Connection failed to . Error: Failed to connect.
+2024-10-16 20:49:30 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:49:45 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:49:45 - Connection failed to . Error: Failed to connect.
+2024-10-16 20:53:48 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:53:49 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:53:50 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:53:53 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:53:53 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:54:01 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:54:03 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:54:03 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:54:03 - Connection failed to . Error: Failed to connect.
+2024-10-16 20:54:05 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:54:05 - Connection failed to . Error: Failed to connect.
+2024-10-16 20:54:08 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:54:08 - Connection failed to . Error: Failed to connect.
+2024-10-16 20:54:16 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:54:16 - Connection failed to . Error: Failed to connect.
+2024-10-16 20:54:18 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:54:18 - Connection failed to . Error: Failed to connect.
+2024-10-16 20:54:27 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:54:42 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:54:42 - Connection failed to . Error: Failed to connect.
+2024-10-16 20:54:58 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:55:13 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-16 20:55:13 - Connection failed to . Error: Failed to connect.
+2024-10-21 15:04:22 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-21 15:04:22 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-21 15:04:23 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-21 15:04:24 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-21 15:04:37 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-21 15:04:37 - Connection failed to . Error: Failed to connect.
+2024-10-21 15:04:38 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-21 15:04:38 - Connection failed to . Error: Failed to connect.
+2024-10-21 15:04:39 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-21 15:04:39 - Connection failed to . Error: Failed to connect.
+2024-10-22 11:14:52 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-22 11:15:07 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-22 11:15:07 - Connection failed to . Error: Failed to connect.
+2024-10-22 13:35:23 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-22 13:35:38 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-22 13:35:38 - Connection failed to . Error: Failed to connect.
+2024-10-22 13:36:45 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-22 13:37:00 - Connection failed to . Error: php_network_getaddresses: getaddrinfo for  failed: Name or service not known
+2024-10-22 13:37:00 - Connection failed to . Error: Failed to connect.

@@ -1,0 +1,169 @@
+{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "0a83-4731-ac2e-58dccc54ee5988051822",
+        "CheckoutRequestID": "ws_CO_16102024094931814791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "6304-4ad6-ac84-b19cc6b06d8969203036",
+        "CheckoutRequestID": "ws_CO_16102024101917588791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "dab3-4cb9-9110-99918efd35e369127137",
+        "CheckoutRequestID": "ws_CO_16102024102126989797147257",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "6771-4f62-b538-7b914275850584179037",
+        "CheckoutRequestID": "ws_CO_16102024102146974791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "a5e9-4493-bf74-289c5402a31880843156",
+        "CheckoutRequestID": "ws_CO_16102024110456114791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "6771-4f62-b538-7b914275850584760731",
+        "CheckoutRequestID": "ws_CO_16102024151503512792161722",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "ecab-4c60-99d3-11c7168133a070815415",
+        "CheckoutRequestID": "ws_CO_16102024234803513791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "ecab-4c60-99d3-11c7168133a070816199",
+        "CheckoutRequestID": "ws_CO_16102024234835612791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "6304-4ad6-ac84-b19cc6b06d8971023325",
+        "CheckoutRequestID": "ws_CO_16102024235304964791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "dab3-4cb9-9110-99918efd35e381424436",
+        "CheckoutRequestID": "ws_CO_22102024094344960712427277",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "6304-4ad6-ac84-b19cc6b06d8981819259",
+        "CheckoutRequestID": "ws_CO_22102024141403984791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "feab-4d34-8ffb-457d02cd9bfc117050836",
+        "CheckoutRequestID": "ws_CO_22102024163434156791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "e1f1-482d-9538-d140c330be9b108287274",
+        "CheckoutRequestID": "ws_CO_22102024163559321791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "0a83-4731-ac2e-58dccc54ee59108782393",
+        "CheckoutRequestID": "ws_CO_22102024174142509791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "0a83-4731-ac2e-58dccc54ee59108782393",
+            "CheckoutRequestID": "ws_CO_22102024174142509791165234",
+            "ResultCode": 1032,
+            "ResultDesc": "Request cancelled by user"
+        }
+    }
+}Payment failed for transaction ID: ws_CO_22102024174142509791165234{
+    "httpCode": 200,
+    "curlError": "",
+    "response": {
+        "MerchantRequestID": "38d5-4ca6-b9c9-0240a9781f7a77144415",
+        "CheckoutRequestID": "ws_CO_22102024182510612791165234",
+        "ResponseCode": "0",
+        "ResponseDescription": "Success. Request accepted for processing",
+        "CustomerMessage": "Success. Request accepted for processing"
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "38d5-4ca6-b9c9-0240a9781f7a77144415",
+            "CheckoutRequestID": "ws_CO_22102024182510612791165234",
+            "ResultCode": 1032,
+            "ResultDesc": "Request cancelled by user"
+        }
+    }
+}Payment failed for transaction ID: ws_CO_22102024182510612791165234nullMAC address not found for phone: .
